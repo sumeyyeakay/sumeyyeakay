@@ -18,9 +18,14 @@ I am a software engineer. I love coding.✨
 
 </p>
 
-⛰ Looking forward to learn:
+⛰ Database:
 
-
+<p>
+ <img src="https://user-images.githubusercontent.com/34593997/87719722-81949980-c7bc-11ea-9de2-c112437b57f5.png" width="120">
+<img src="https://user-images.githubusercontent.com/34593997/87719804-a4bf4900-c7bc-11ea-8a22-2ef10a6e8cac.png" width="120" >
+<img src="https://user-images.githubusercontent.com/34593997/87719973-e3ed9a00-c7bc-11ea-8ad1-66de13d8e498.png" width="120" >
+<img src="https://user-images.githubusercontent.com/34593997/87720103-17302900-c7bd-11ea-920f-15ac35c504da.png" width="120" >
+</p>
 
 
 - 👯 I’m looking to collaborate on ...
