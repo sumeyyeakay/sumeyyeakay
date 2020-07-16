@@ -27,10 +27,15 @@ I am a software engineer. I love coding.✨
 <img src="https://user-images.githubusercontent.com/34593997/87720103-17302900-c7bd-11ea-920f-15ac35c504da.png" width="120" >
 </p>
 
+ ⚡ Looking forward to learn: 
+ 
+ <p>
+ <img src="https://user-images.githubusercontent.com/34593997/87720632-e7cdec00-c7bd-11ea-80e7-e4a3f899d954.png" width="120" alt="accessibility text">
+ <img src="https://user-images.githubusercontent.com/34593997/87720723-0e8c2280-c7be-11ea-94ea-cd9f246fca04.png" width="120" alt="accessibility text">
+</p>
+ 
+ 
+ 
+ 
+ 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
