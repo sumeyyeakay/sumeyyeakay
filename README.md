@@ -1,4 +1,4 @@
-### Herkese Merhaba 👋
+### Hello Everyone 👋
 
 
 I am a software engineer. I love coding.✨ 
