@@ -35,7 +35,10 @@
 </p>
  
  
- 
+ ## Stats
+
+ | <img src="https://github-readme-stats.vercel.app/api?username=sumeyyeakay&show_icons=true&theme=vue&count_private=true&include_all_commits=true"/>	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyeakay&layout=compact&theme=vue&langs_count=10&count_private=true"/>	|
+ |---	
  
  
 
