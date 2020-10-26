@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-👩‍💻 I am a Software Engineer who is working as Software Engineer at Ecuex. 
+👩‍💻 I am a Software Engineer who is working as Junior Software Developer at Ecuex. 
 🚀 I love coding.
 
 - 📫 Where to find me:
